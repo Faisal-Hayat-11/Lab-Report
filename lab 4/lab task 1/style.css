@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    height: 4rem;
+}
+
+.nav-links {
+    margin-left: 80rem;
+    
+}
+
+.logo h2 {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+ul li a{
+    text-decoration: none;
+    justify-content: space-between;
+    color: #000;
+}
+
+
+.title1 {
+    display: grid;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-right: 5rem;
+}
+
+.content-title {
+    display: grid;
+    justify-content: center;
+    background-color: #11aab8;
+    color: #fff;
+    height: 25rem;
+}
+
+.content-title img {
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+
+}
+
+
+.data {  
+    background-color: rgb(24, 41, 58);
+    color: #fff;
+    height: 14rem;
+}
+
+.data-title {
+    margin-left: 53.5rem;
+    padding-top: 3.5rem;
+}
+
+.data-description {
+    margin-left: 48rem;
+    padding-top: 2rem;
+    font-size: 1.5rem;
+}
+
+button {
+    margin-top: 7px;
+    margin-left: 55rem;
+    padding: 5px;
+    width: 5rem;
+    border-radius: 1px;
+    border: none;
+
+}
+
+.location {
+    height: 18rem;
+    width: 95%;
+}
+
+.code {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
+
+.list {
+    margin-top: 2rem;
+    display: grid;
+}
+
+ul {
+    justify-content: space-between;
+    gap: 3rem;
+    margin-left: 2rem;
+}
+
+ul li {
+    margin-top: 1rem;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    height: 5rem;
+}
+
+footer h3 {
+    margin-top: 2rem;
+}
