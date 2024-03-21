@@ -1,2 +1,2 @@
 # Lab-Report
-All the lab work/project are uploaded here
+All my university lab work/project are uploaded here.
